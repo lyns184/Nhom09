@@ -4,3 +4,4 @@ Thanh vien:
 - Le Pham Khanh Linh 24520959
 - Nguyen Vu Phuc 24521393
 I am beginning to understand Git
+Content from branch feature
